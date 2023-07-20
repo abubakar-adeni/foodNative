@@ -111,11 +111,11 @@ npm run build
     <td>Splash Screen</td>
       <tr>
     <td><img width="350px" src="./document/update.png" border="0" alt="Upload Recipe" /></td>
-    <td><img width="350px" src="./document/edit.png" border="0" alt="Edit Profile" /> </td>
+    <td><img width="350px" src="./document/edit.png" border="0" alt="Edit Recipe" /> </td>
   </tr>
    <tr>
     <td>Upload Recipe</td>
-    <td>Edit Profile</td>
+    <td>Edit Recipe</td>
 </table>
 
 # Related Project
