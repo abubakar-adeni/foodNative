@@ -100,7 +100,7 @@ npm run build
   </tr>
    <tr>
     <td>Edit Profile</td>
-    <td>Product Pages</td>
+    <td>Notification</td>
   </tr>
   <tr>
     <td><img width="350px" src="./document/search.png" border="0" alt="Search" /></td>
@@ -108,14 +108,14 @@ npm run build
   </tr>
    <tr>
     <td>Search</td>
-    <td>Detail Product</td>
+    <td>Splash Screen</td>
       <tr>
     <td><img width="350px" src="./document/update.png" border="0" alt="Upload Recipe" /></td>
     <td><img width="350px" src="./document/edit.png" border="0" alt="Edit Profile" /> </td>
   </tr>
    <tr>
-    <td>Checkout</td>
-    <td>Payment</td>
+    <td>Upload Recipe</td>
+    <td>Edit Profile</td>
 </table>
 
 # Related Project
