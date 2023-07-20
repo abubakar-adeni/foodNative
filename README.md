@@ -85,36 +85,33 @@ npm run build
 
 # Screenshots
 
-<img width="840" src="./documentation/all-devices-black.png" border="0" alt="Landing Page" />
-<br>
-
 <table>
  <tr>
-    <td><img width="350px" src="./documentation/login.png" border="0" alt="Login" /></td>
-    <td> <img width="350px" src="./documentation/register.png" border="0"  alt="Register" /></td>
+    <td><img width="350px" src="./document/login.png" border="0" alt="Login" /></td>
+    <td> <img width="350px" src="./document/register.png" border="0"  alt="Register" /></td>
   </tr>
   <tr>
     <td>Login</td>
     <td>Register</td>
   </tr>
   <tr>
-    <td><img width="350px" src="./documentation/profile.png" border="0" alt="Profile" /> </td>
-    <td><img width="350px" src="./documentation/product.png" border="0" alt="Hire" /> </td>
+    <td><img width="350px" src="./document/profile.png" border="0" alt="Profile" /> </td>
+    <td><img width="350px" src="./document/notif.png" border="0" alt="Notification Success" /> </td>
   </tr>
    <tr>
     <td>Edit Profile</td>
     <td>Product Pages</td>
   </tr>
   <tr>
-    <td><img width="350px" src="./documentation/search.png" border="0" alt="Search" /></td>
-    <td><img width="350px" src="./documentation/detail.png" border="0" alt="Detail Talent" /> </td>
+    <td><img width="350px" src="./document/search.png" border="0" alt="Search" /></td>
+    <td><img width="350px" src="./document/splash.png" border="0" alt="Splash Screen" /> </td>
   </tr>
    <tr>
     <td>Search</td>
     <td>Detail Product</td>
       <tr>
-    <td><img width="350px" src="./documentation/checkout.png" border="0" alt="Search" /></td>
-    <td><img width="350px" src="./documentation/payment.png" border="0" alt="Detail Talent" /> </td>
+    <td><img width="350px" src="./document/update.png" border="0" alt="Upload Recipe" /></td>
+    <td><img width="350px" src="./document/edit.png" border="0" alt="Edit Profile" /> </td>
   </tr>
    <tr>
     <td>Checkout</td>
