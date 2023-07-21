@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <div align="center">
-    <img src="./src/assets/images/Main Logo.svg" alt="shopbag">
+    <img src="./document/logo-recipe.png" alt="shopbag">
   </div>
   <h3 align="center">Food Recipes (Food App)</h3>
   <p align="center">
