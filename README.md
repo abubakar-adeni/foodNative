@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <div align="center">
-    <img src="./document/logo-recipe.png" alt="shopbag">
+    <img src="./document/logo-recipe.png" alt="foodrecipes">
   </div>
   <h3 align="center">Food Recipes (Food App)</h3>
   <p align="center">
@@ -124,4 +124,4 @@ npm run build
 
 :rocket: [`Backend Blanja`](https://github.com/abubakar-adeni/backend-recipes)
 
-:rocket: [`Demo Blanja`](https://blanja-fe-zeta.vercel.app/)
+:rocket: [`Release APK`](https://github.com/abubakar-adeni/foodNative/tree/main/release)
