@@ -120,8 +120,8 @@ npm run build
 
 # Related Project
 
-:rocket: [`https://github.com/abubakar-adeni/foodNative)
+:rocket: [`Frontend Recipes App`]https://github.com/abubakar-adeni/foodNative)
 
-:rocket: [`Backend Blanja`](https://github.com/abubakar-adeni/backend-recipes)
+:rocket: [`Backend Recipes App`](https://github.com/abubakar-adeni/backend-recipes)
 
 :rocket: [`Release APK`](https://github.com/abubakar-adeni/foodNative/tree/main/release)
