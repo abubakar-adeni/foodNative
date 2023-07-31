@@ -120,7 +120,7 @@ npm run build
 
 # Related Project
 
-:rocket: [`Frontend Blanja`](https://github.com/abubakar-adeni/blanja)
+:rocket: [`https://github.com/abubakar-adeni/foodNative)
 
 :rocket: [`Backend Blanja`](https://github.com/abubakar-adeni/backend-recipes)
 
