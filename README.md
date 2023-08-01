@@ -104,7 +104,7 @@ npm run build
   </tr>
   <tr>
     <td><img width="350px" src="./document/search.png" border="0" alt="Search" /></td>
-    <td><img width="350px" src="./document/splash.png" border="0" alt="Splash Screen" /> </td>
+    <td><img width="350px" src="./document/splash_screen.png" border="0" alt="Splash Screen" /> </td>
   </tr>
    <tr>
     <td>Search</td>
