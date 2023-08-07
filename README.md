@@ -91,16 +91,16 @@ npm run build
     <td> <img width="350px" src="./document/register.png" border="0"  alt="Register" /></td>
   </tr>
   <tr>
-    <td>Login</td>
-    <td>Register</td>
+    <td>Login Page</td>
+    <td>Register Page</td>
   </tr>
   <tr>
     <td><img width="350px" src="./document/profile.png" border="0" alt="Profile" /> </td>
     <td><img width="350px" src="./document/notif.png" border="0" alt="Notification Success" /> </td>
   </tr>
    <tr>
-    <td>Edit Profile</td>
-    <td>Notification</td>
+    <td>Edit Profile Page</td>
+    <td>Notification Page</td>
   </tr>
   <tr>
     <td><img width="350px" src="./document/search.png" border="0" alt="Search" /></td>
@@ -108,14 +108,14 @@ npm run build
   </tr>
    <tr>
     <td>Search</td>
-    <td>Splash Screen</td>
+    <td>Splash Screen Page</td>
       <tr>
     <td><img width="350px" src="./document/update.png" border="0" alt="Upload Recipe" /></td>
     <td><img width="350px" src="./document/edit.png" border="0" alt="Edit Recipe" /> </td>
   </tr>
    <tr>
-    <td>Upload Recipe</td>
-    <td>Edit Recipe</td>
+    <td>Upload Recipe Page</td>
+    <td>Edit Recipe Page</td>
 </table>
 
 # Related Project
