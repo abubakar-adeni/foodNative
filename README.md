@@ -21,7 +21,7 @@
 
 # About The Project
 
-Blanja is an e-commerce platform in the fashion style field where users can log in and enjoy a delightful shopping experience with a highly user-friendly experience.
+Food Recipe is a responsive web-based & mobile application that provides various cooking recipes uploaded by users.
 
 ## Built With
 
