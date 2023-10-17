@@ -50,13 +50,13 @@ Follow this steps to run the server locally
 1. Clone this repository
 
 ```sh
-git clone https://github.com/abubakar-adeni/blanja.git
+git clone https://github.com/abubakar-adeni/foodNative.git
 ```
 
-2. Change directory to blanja
+2. Change directory to foodNative
 
 ```sh
-cd blanja
+cd foodNative
 ```
 
 3. Install all of the required modules
@@ -122,6 +122,6 @@ npm run build
 
 :rocket: [`Frontend Recipes App`](https://github.com/abubakar-adeni/foodNative)
 
-:rocket: [`Backend Recipes App`](https://github.com/abubakar-adeni/backend-recipes)
+:rocket: [`Backend Recipes App`](https://github.com/abubakar-adeni/food-recipe-be)
 
 :rocket: [`Release APK`](https://github.com/abubakar-adeni/foodNative/tree/main/release)
