@@ -110,8 +110,8 @@ npm run build
     <td>Search Page</td>
     <td>Splash Screen Page</td>
       <tr>
-    <td><img width="350px" src="./document/update.png" border="0" alt="Upload Recipe" /></td>
-    <td><img width="350px" src="./document/edit.png" border="0" alt="Edit Recipe" /> </td>
+    <td><img width="350px" src="./document/capture1.png" border="0" alt="Upload Recipe" /></td>
+    <td><img width="350px" src="./document/capture2.png" border="0" alt="Edit Recipe" /> </td>
   </tr>
    <tr>
     <td>Upload Recipe Page</td>
